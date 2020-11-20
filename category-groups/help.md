@@ -7,5 +7,3 @@ id: help
 ---
 
 # Help
-
-Get help using Jekyll Disqus Forum.

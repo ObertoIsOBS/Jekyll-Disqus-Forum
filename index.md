@@ -2,6 +2,6 @@
 layout: home
 ---
 
-# Jekyll Disqus Forum
+# OBSCode Forum
 
-A simple forum managed by Jekyll and powered by Disqus. Find out more on [github](http://www.github.com/klcodanr/Jekyll-Disqus-Forum).
+The place to get and give help along side experts and professionals. 
