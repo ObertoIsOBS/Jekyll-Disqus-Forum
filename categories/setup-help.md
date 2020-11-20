@@ -1,11 +1,11 @@
 ---
 layout: category
-title: Setup Help
+title: Discord.JS Help
 category: true
-summary: Get help setting up the Jekyll Disqus Forum
+summary: Get help using the discord.js library.
 id: 2736938
 group-id: help
 ---
 
 # Setup Help
-Get help setting up the Jekyll Disqus Forum
+Get help using the discord.js library.
